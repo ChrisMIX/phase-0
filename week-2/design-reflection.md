@@ -1,4 +1,4 @@
-![Image](site-map.png)
+![Image](/ChrisMIX/phase-0/blob/changes/week-2/imgs/site-map.png)
 
 
 
