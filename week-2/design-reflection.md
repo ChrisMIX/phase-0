@@ -1,4 +1,4 @@
-![Image](/imgs/site-map.png)
+![Image](site-map.png)
 
 
 
