@@ -1,4 +1,4 @@
-![Image](Users/mikliuca/devbootcamp/phase-0/week-2/imgs/site-map.png)
+![Image](/Users/mikliuca/devbootcamp/phase-0/week-2/imgs/site-map.png)
 
 
 
