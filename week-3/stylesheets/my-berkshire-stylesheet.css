@@ -18,6 +18,7 @@ a:visited {
 ul {
     -webkit-column-count: 2;
     font-size: 12px;
+
 }
 
 header {
@@ -30,13 +31,24 @@ header span div {
     font-size: 26px;
 }
 
-header span {
+header  {
     display: block;
+
 }
 
 #geico {
     font-size: 15px;
     text-align: center;
+    border-bottom-style: solid;
+}
+
+div span{
+    font-size: 2em;
+}
+
+.geico2{
+
+    border-bottom-style: solid;
 }
 
 <!--
