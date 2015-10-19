@@ -18,3 +18,23 @@ puts "The number of hours in a year is #{hours}"
 minutes = 10*365*60*60
 puts "The number of minutes in a decade is #{minutes}"
 ...
+
+**How does Ruby handle addition, subtraction, multiplication, and division of numbers?**
+
+Ruby handles these functions
+
+**What is the difference between integers and floats?**
+Integers are numbers without decimal points, and floats ser numbers with decimal points
+
+**What is the difference between integer and float division?**
+Integer division rounds down to the nearest whole number, and float division gives you the exact answer.
+
+**What are strings? Why and when would you use them?**
+Strings are characters within quotes. You use them to give input back to the user, or to take input from the user.
+
+**What are local variables? Why and when would you use them?**
+Local variables are variables that you define within the program. You use them to store values for later use throughout your program. For example, you could calculate the number of minutes in a year, store it in a variable, and then return it to a user.
+
+**How was this challenge? Did you get a good review of some of the basics?**
+
+I definitely felt like I was dusting off cobwebs doing this challenge. Some terminology and syntax I had to brush up on, but I was quick to get reacquainted with the terms and functions.
