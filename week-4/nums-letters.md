@@ -38,3 +38,8 @@ Local variables are variables that you define within the program. You use them t
 **How was this challenge? Did you get a good review of some of the basics?**
 
 I definitely felt like I was dusting off cobwebs doing this challenge. Some terminology and syntax I had to brush up on, but I was quick to get reacquainted with the terms and functions.
+
+**Other challenge urls**
+https://github.com/ChrisMIX/phase-0/blob/master/week-4/defining-variables.rb
+https://github.com/ChrisMIX/phase-0/blob/master/week-4/simple-string.rb
+https://github.com/ChrisMIX/phase-0/blob/master/week-4/basic-math.rb
