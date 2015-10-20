@@ -1,4 +1,20 @@
 html {
-
-  background-color: red;
+    background-color: yellow;
+    color: blue;
 }
+
+section {
+    display: inline-block;
+    width: 48%;
+    vertical-align: top;
+    height: 1050px;
+}
+
+header > p {
+    border-bottom: solid;
+}
+
+#border {
+    border-top: solid;
+}
+
