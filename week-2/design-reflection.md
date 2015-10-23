@@ -15,6 +15,7 @@ The 6 Phases of web design are...
 
 **What is your site's primary goal or purpose? What kind of content will your site feature?**
 
+
 The purpose of my site is to allow potential employers and colleagues to get to know me better. My aim is to provide a straightforward way to list my thoughts, accomplishments, contact information, and other up to date things about me. My site will feature a blog, my previous work experience, links to my social media platforms, and resume.
 
 **What is your target audience's interests and how do you see your site addressing them?**
