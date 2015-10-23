@@ -24,36 +24,22 @@ list_of_nums.each {|x| sorted_list << x if x == small}
 =end
 
 def smallest_integer(list_of_nums)
-y = 1
 
-  if list_of_nums.empty?
-    puts "Array is empty."
+result = list_of_nums[0]
+if list_of_nums.empty?
+  puts "Array is empty."
 
+else
+list_of_nums.each do |x|
+
+  if x < result
+    result = x
   else
-    list_of_nums.each do |x|
-
-      if list_of_nums.length < 2
-        p x
-
-      elsif x < list_of_nums[y]
-        list_of_nums.pop list_of_nums[y]
-        smallest_integer(list_of_nums)
-
-      elsif x > list_of_nums[y]
-        list_of_nums.pop x
-        smallest_integer(list_of_nums)
-
-      else
-        smallest_integer(list_of_nums)
-
-      end
-
-
-
-
-    end
-
-
+    result = result
   end
 
+
+end
+end
+p result
 end
