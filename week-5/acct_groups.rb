@@ -4,8 +4,10 @@ PSEUDOCODE:
 
 DEFINE the method group, which takes as input an array and returns multiple arrays.
 
-The data should be taken and sorted into groups of at least 3,but no more than 5
+The data should be taken and mixed up
+The data should then be sorted in groups of 3, 4, or 5, based on divisibility.
 
+If the length of the array is an awkward number, take three elements from the array, and run the rest of the array into the method again.
 =end
 
 #Initial Solution
