@@ -1,14 +1,14 @@
 # Build a simple guessing game
 
 
-# I worked on this challenge [by myself, with: ].
-# I spent [#] hours on this challenge.
+# I worked on this challenge [by myself].
+# I spent [1.5] hours on this challenge.
 
 # Pseudocode
 
-# Input:
-# Output:
-# Steps:
+# Input: integer
+# Output: An instance of GuessingGame
+# Steps: Initialize the class with an integer serving as your answer, as well as a result set to some default value. Define the method guess which will take a number guess from the user and tell you if said answer is higher than, lower than, or equal to the answer. The result of each branch should be stored into result. Define a method solved? which returns true or false based on the result of guess.
 
 
 # Initial Solution
