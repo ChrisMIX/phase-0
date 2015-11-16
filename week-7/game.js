@@ -102,6 +102,7 @@
         }
         else{
           console.log("Your arrow doesn't hit anything. This doesn't look good...")
+          gameover();
         }
 
       }
