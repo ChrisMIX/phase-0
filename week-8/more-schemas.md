@@ -1,8 +1,8 @@
-![sql](/imgs/8.5_R2.png)
+![sql](imgs/8.5_R2.png)
 
 This is one to one because any given product has a unique serial number, and a serial number only matches one object. It's a unique identifier.
 
-![sql](/imgs/8.5_R4.png)
+![sql](imgs/8.5_R4.png)
 
 **What is a one-to-one database?**
 
